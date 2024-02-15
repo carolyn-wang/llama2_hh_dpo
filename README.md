@@ -1,3 +1,5 @@
+Template code copied from https://github.com/huggingface/trl/tree/main/examples/research_projects/stack_llama_2/scripts
+
 # DPO pipeline for the creation of StackLlaMa 2: a Stack exchange llama-v2-7b model
 
 ## Prerequisites
